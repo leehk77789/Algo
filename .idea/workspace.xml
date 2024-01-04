@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ad83c11f-ac10-4739-9844-604993b87182" name="Changes" comment="16283">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/완전탐색/BOJ_16283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/완전탐색/BOJ_16283.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2aTUWixqHMwVusP6kyyhbJU4Tqt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +58,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "testing.instrumented.configuration",
+    "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704342097234</updated>
       <workItem from="1704342098191" duration="1661000" />
-      <workItem from="1704343774358" duration="2215000" />
+      <workItem from="1704343774358" duration="4353000" />
     </task>
     <task id="LOCAL-00001" summary="16283">
       <option name="closed" value="true" />
