@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad83c11f-ac10-4739-9844-604993b87182" name="Changes" comment="">
+    <list default="true" id="ad83c11f-ac10-4739-9844-604993b87182" name="Changes" comment="16283">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/완전탐색/BOJ_16283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/완전탐색/BOJ_16283.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -68,8 +70,17 @@
       <option name="presentableId" value="Default" />
       <updated>1704342097234</updated>
       <workItem from="1704342098191" duration="1661000" />
-      <workItem from="1704343774358" duration="1232000" />
+      <workItem from="1704343774358" duration="2215000" />
     </task>
+    <task id="LOCAL-00001" summary="16283">
+      <option name="closed" value="true" />
+      <created>1704345039171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704345039171</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +96,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="16283" />
+    <option name="LAST_COMMIT_MESSAGE" value="16283" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
