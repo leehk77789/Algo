@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad83c11f-ac10-4739-9844-604993b87182" name="Changes" comment="16283">
+    <list default="true" id="ad83c11f-ac10-4739-9844-604993b87182" name="Changes" comment="2805">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +29,22 @@
     <branch-grouping />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;leehk77789&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="52700fa5-35e5-4e7f-9cda-14b11d624ff7" />
+        <option name="url" value="https://github.com/leehk77789/Algo.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,6 +96,8 @@
       <workItem from="1704942329000" duration="6064000" />
       <workItem from="1704953028136" duration="9000" />
       <workItem from="1705297948164" duration="9302000" />
+      <workItem from="1706580097072" duration="9040000" />
+      <workItem from="1707193983804" duration="1776000" />
     </task>
     <task id="LOCAL-00001" summary="16283">
       <option name="closed" value="true" />
@@ -91,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704345039171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2121">
+      <option name="closed" value="true" />
+      <created>1706517106043</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706517106043</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2805">
+      <option name="closed" value="true" />
+      <created>1706582957303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706582957304</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +142,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="16283" />
-    <option name="LAST_COMMIT_MESSAGE" value="16283" />
+    <MESSAGE value="2121" />
+    <MESSAGE value="2805" />
+    <option name="LAST_COMMIT_MESSAGE" value="2805" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
